@@ -54,7 +54,7 @@ If you'd like to have the FNM WebUI log attack history, and send out notificatio
 
 ...with your domain for the installation of this project swapped in.
 
-## Resolving incorrect FNM licence warning
+## Resolving incorrect FNM license warning
 
 The FastNetMon service will request a license when the service starts up, and this will have a lifetime of 14 days. While at the end of the 14 days, the licensing backend will renew your license (assuming it's been paid for), this is not reflected in the FCLI calls to `show license`.
 
